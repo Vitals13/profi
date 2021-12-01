@@ -1,0 +1,8 @@
+/#src
+/iconsfont
+node_modules/
+/gulpfile.js
+/howtouse.txt
+/package.json
+/package-lock.json
+/version.json
